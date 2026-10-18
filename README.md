@@ -1,7 +1,7 @@
 # Hi there, I'm Parth Sonavane 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=parthongit89&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://portfolio-navy-chi-49.vercel.app/" alt="Profile Views" />
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://portfolio-code-sync4.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sonavaneparthgit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
